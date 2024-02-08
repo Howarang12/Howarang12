@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Howard</h1>
-<h3 align="center">a Software Engineer at 100 devs.</h3>
+<h3 align="center">a Computer Science student at Oregon State University</h3>
 
 - 🌱 I’m currently learning **the MERN stack**
 
