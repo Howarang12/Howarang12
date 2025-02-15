@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Howard</h1>
-<h3 align="center">a Computer Science student at Oregon State University</h3>
+<h3 align="center">a Computer Science student from Oregon State University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
